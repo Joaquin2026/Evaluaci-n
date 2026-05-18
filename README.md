@@ -13,7 +13,9 @@ Estructura de carpetas
     - logo.webp
     - 1065153_front.jpg
     - Forza.webp
-    - screenshot-1041.avif 
+    - screenshot-1041.avif
+  - /js
+    - app.js
 
 Prompts usados para crear el HTML y CSS
 
